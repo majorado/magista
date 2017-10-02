@@ -1,0 +1,3 @@
+_author_: Jose Lourenço Claudio Junior
+droid = sl4a.Android()
+droid.ttsSpeak(" Eripe animam, flere sanguine venire ad me, et ponam te in somnum ")
