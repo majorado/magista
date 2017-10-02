@@ -1,0 +1,25 @@
+_author_: Jose Lourenço Claudio Junior 
+droid = sl4a.Android()
+droid.ttsSpeak(" Doo-wat ak-em ka ren el-bee shoit. Doo-wat ak-em ma-at ")
+#  can only make out three words: 
+# 1. “Duat” - The realm ruled by Osiris; the Underworld;
+# 2. “Aken” - The name of the custodian (ferryman) of the boat that carried souls into the Underworld;
+# 3. “Ma'at” - A concept of equilibrium and justice; sometimes personified as a Goddess.
+droid.ttsSpeak(" Duat Aken Ma'at ")
+#
+# Also ‘Khem’, which can mean either Wise, Dark or Egypt, depending on inflection
+droid.ttsSpeak(" Doo-wat ak-em ka ren el-bee shoit Doo-wat ak-em ma-at ")
+#
+# The incantation you have (the Astral Travel one) is purely phonetic, how the words should be pronounced.
+# The best way I can think of it is this: Duat Aken, Ka, Ren, Ba, Ib, Sheut, Duat Aken Ma'at.
+droid.ttsSpeak(" Duat Aken Ka Ren Ba Ib Sheut Duat Aken Ma'at ") 
+#
+# Adam using the astral travel spell.
+droid.ttsSpeak(" Doo-wat ak-em ka ren el-bee ak-em ma-at ")
+#
+#John and Ritchie doing the Egyptian spell for astral travel.
+droid.ttsSpeak(" Doo-wat ak-em ka ren el-bee shoit.
+droid.ttsSpeak(" Doo-wat ak-em ma-at ")
+droid.ttsSpeak(" Doo-wat ak-em ka ren el-bee shoit ")
+droid.ttsSpeak(" Doo-wat ak-em ma-at ")
+
